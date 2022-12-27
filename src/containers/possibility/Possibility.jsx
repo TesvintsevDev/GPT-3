@@ -1,9 +1,27 @@
-import React from 'react'
+import React from 'react';
+import possibilityImage from '../../assets/possibility.png';
+import './possibility.css';
 
 const Possibility = () => {
   return (
-	<div>Possibility</div>
-  )
-}
+    <div className="gpt3__possibility section__padding" id="possibility">
+      <div className="gpt3__possibility-image">
+        <img src={possibilityImage} alt="possibility" />
+      </div>
+      <div className="gpt3__possibility-content">
+        <h4>Request Early Access to&nbsp;Get Started</h4>
+        <h1 className="gradient__text">
+          The possibilities are <br /> beyond your imagination
+        </h1>
+        <p>
+          Yet bed any for travelling assistance indulgence unpleasing. Not thoughts all exercise
+          blessing. Indulgence way everything joy alteration boisterous the attachment. Party
+          we&nbsp;years to&nbsp;order allow asked&nbsp;of.
+        </p>
+        <h4>Request Early Access to&nbsp;Get Started</h4>
+      </div>
+    </div>
+  );
+};
 
-export default Possibility
+export default Possibility;

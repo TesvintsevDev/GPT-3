@@ -1,3 +1,6 @@
+## Modern UI/UX GPT-3
+![68747470733a2f2f692e6962622e636f2f5452354cere7397a2f696d6167652e706e67](https://user-images.githubusercontent.com/83923244/210274791-11126ec3-1fef-44f0-9a27-ce1dda4e0848.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -38,8 +41,3 @@ If you aren't satisfied with the build tool and configuration choices, you can `
 Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
 You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Modern UI/UX GPT-3
-![68747470733a2f2f692e6962622e636f2f5452354cere7397a2f696d6167652e706e67](https://user-images.githubusercontent.com/83923244/210274791-11126ec3-1fef-44f0-9a27-ce1dda4e0848.png)
-
-

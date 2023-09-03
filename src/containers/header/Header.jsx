@@ -16,20 +16,20 @@ const Header = () => {
         <div className="gpt3__header-content__input">
           <input type="email" placeholder="Your Email Address" />
           <button type="button">
-            <a href="https://codex-beta.vercel.app/" target="_blank">
+            <a href="https://codex-beta.vercel.app/" rel="noreferrer" target="_blank">
               Get Started
             </a>
           </button>
         </div>
 
         <div className="gpt3__header-content__people">
-          <img src={people} />
+          <img src={people} alt="img" />
           <p>1,600 people requested access a&nbsp;visit in&nbsp;last 24&nbsp;hours</p>
         </div>
       </div>
 
       <div className="gpt3__header-image">
-        <img src={ai} />
+        <img src={ai} alt="img" />
       </div>
     </div>
   );
